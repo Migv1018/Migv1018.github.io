@@ -1,0 +1,19 @@
+h1 {
+    color:black;
+}
+
+h1, h2 {
+    text-align:center;
+}
+
+.email {
+    text-align: center;
+}
+
+.portrait {
+    display:block; 
+    margin:auto;
+    text-align: center;
+    max-width: 10%;
+    max-height: 10%;
+}
